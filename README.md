@@ -22,10 +22,31 @@ Presentation Statique
 
 Presentation dynamique
 
+![pr2](https://user-images.githubusercontent.com/80393682/224130389-aab2e143-a465-42b2-b3ee-3977622f16c5.png)
+
+
+
+Classe Dao version capteurs
+![v22](https://user-images.githubusercontent.com/80393682/224131307-6e985435-50e2-4263-a7a5-76cc4f3e48c1.png)
+
+Classe Dao version web service
+![vws](https://user-images.githubusercontent.com/80393682/224131650-94f1e0ff-ce0d-4590-9249-e564d13fb932.png)
+
 
 Presntation utilisant spring framework
+![daov12](https://user-images.githubusercontent.com/80393682/224131779-4f80f7b0-82ed-421b-931f-170769839794.png)
+![v33](https://user-images.githubusercontent.com/80393682/224131784-703ae04b-1577-4254-a048-7e0a15201d2c.png)
+![iMetier2](https://user-images.githubusercontent.com/80393682/224131944-f6fd6fbd-277c-4d1c-899b-e6d8641dc57f.png)
+![xml1](https://user-images.githubusercontent.com/80393682/224132060-76ab3e24-b3bc-4268-81f5-6903e52ebc39.png)
+
+
 1-Version xml
+
+![prxml](https://user-images.githubusercontent.com/80393682/224132551-ae7fc3f0-de90-4a45-8cab-39b48c095fcc.png)
+
 2- Version Annotation
+![preann](https://user-images.githubusercontent.com/80393682/224132558-8c979f22-2617-48a2-8895-51288e7760d6.png)
+
 
 
 
